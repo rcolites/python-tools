@@ -21,7 +21,7 @@ A collection of simple and useful Python scripts — built for learning, experim
 - One script acts as the server, another as the client
 - Great for learning Python’s `socket` module and networking fundamentals
 
-### 4. 👀 File Watcher (Coming Soon)
+### 4. 👀 File Watcher
 - Watches a folder for changes (create, delete, modify)
 - Prints alerts or logs changes in real time
 - Ideal for monitoring or basic automation tasks
@@ -36,3 +36,4 @@ Run any tool with:
 python scanner.py
 python authentication-log-analyzer.py
 python tcp-socket-server-client.py
+python file-watcher.py
