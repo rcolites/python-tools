@@ -26,6 +26,14 @@ A collection of simple and useful Python scripts — built for learning, experim
 - Prints alerts or logs changes in real time
 - Ideal for monitoring or basic automation tasks
 
+### 5. OpenCTI Artifacts
+🔎 Python script that connects to OpenCTI's public demo API to fetch the 100 most recent malware-related file artifacts using GraphQL.
+- Utilizes the OpenCTI GraphQL endpoint and parses results in JSON
+- Extracts hash types, MIME types, and timestamps from artifact observables
+- Built for cybersecurity automation and CTI enrichment
+- Requires: `requests` (`pip install requests`)
+
+
 ---
 
 ## ▶️ Usage
